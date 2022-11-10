@@ -1,0 +1,67 @@
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.Cache
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+c:\users\bilgisayar_hd150\documents\visual studio 2013\Projects\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.AnaEkran.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.KitapDuzenle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.KitapEkle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.YazarEkle.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Kutuphane2\Kutuphane\obj\Debug\Kutuphane.pdb

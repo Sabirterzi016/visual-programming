@@ -1,0 +1,140 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+
+namespace Kutuphane
+{
+    public partial class AnaEkran : Form
+    {
+        public ArrayList yazarIsimleri = new ArrayList();
+        public List<Kitap> kitap = new List<Kitap>();
+
+        public AnaEkran()
+        {
+            InitializeComponent();
+        }
+
+        private void AnaEkran_Load(object sender, EventArgs e)
+        {
+            button1.Enabled = false;
+            button2.Enabled = false;
+            button3.Enabled = false;
+            button4.Enabled = false;
+
+        }
+
+        public void ekleKitap(Kitap kitap)
+        {
+            listBox1.Items.Add(kitap);
+        }
+
+        public int selectedIndex;
+
+        public void yenileKitap(Kitap kitap)
+        {
+            listBox1.Items[listBox1.SelectedIndex] = kitap;
+        }
+
+        public void yazarEkle(string prm)
+        {
+            yazarIsimleri.Add(prm);
+        }
+
+        public void yazarSil(int prm)
+        {
+            try
+            {
+                yazarIsimleri.RemoveAt(prm);
+            }
+            catch
+            {
+
+            }
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex >= 0)
+            {
+                button1.Enabled = true;
+                button2.Enabled = true;
+                button3.Enabled = true;
+                button4.Enabled = true;
+
+            }
+            else
+            {
+                button1.Enabled = false;
+                button2.Enabled = false;
+                button3.Enabled = false;
+                button4.Enabled = false;
+
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("İlgili kitabı silmek istediğinizden emin misiniz?", "Silme Onayı", MessageBoxButtons.YesNo);
+
+            if (result == DialogResult.Yes)
+            {
+                listBox1.Items.RemoveAt(listBox1.SelectedIndex);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            Kitap kitap = (Kitap) listBox1.Items[listBox1.SelectedIndex];
+            KitapDuzenle kitapDuzenle = new KitapDuzenle(this, kitap);
+            kitapDuzenle.Show();
+            this.Hide();
+        }
+
+        private void kitapEkleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            KitapEkle kitapEkle = new KitapEkle(this);
+            kitapEkle.Show();
+            this.Hide();
+        }
+
+                private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.SelectedIndex = -1;
+        }
+
+        public void kitapEkle(Kitap kitap)
+        {
+            listBox1.Items.Add(kitap);
+        }
+
+        public void kitapDuzenle(Kitap kitap)
+        {
+            listBox1.Items[listBox1.SelectedIndex] = kitap;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Tümünü Silmek istediğinizden emin misiniz?", "Emin misiniz?", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+            {
+                listBox1.Items.Clear();
+                kitap.Clear();
+            }
+        }
+
+        private void yazarEkleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            YazarEkle yazarEkle = new YazarEkle(this);
+            yazarEkle.Show();
+            this.Hide();
+        }
+    }
+}

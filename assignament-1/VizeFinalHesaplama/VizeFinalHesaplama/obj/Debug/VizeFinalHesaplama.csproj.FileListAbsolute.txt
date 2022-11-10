@@ -1,0 +1,11 @@
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\bin\Debug\VizeFinalHesaplama.exe.config
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\bin\Debug\VizeFinalHesaplama.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\bin\Debug\VizeFinalHesaplama.pdb
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.csproj.AssemblyReference.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.Form1.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.Properties.Resources.resources
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.csproj.GenerateResource.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.exe
+C:\Users\Sabir Terzi\OneDrive\Masaüstü\Coreemlak\VizeFinalHesaplama\VizeFinalHesaplama\obj\Debug\VizeFinalHesaplama.pdb
